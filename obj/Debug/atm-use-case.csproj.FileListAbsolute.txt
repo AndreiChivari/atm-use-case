@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\bin\Debug\atm-use-case.exe.config
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\bin\Debug\atm-use-case.exe
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\bin\Debug\atm-use-case.pdb
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\obj\Debug\atm-use-case.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\obj\Debug\atm-use-case.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\obj\Debug\atm-use-case.exe
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\obj\Debug\atm-use-case.pdb
+C:\Users\User\Desktop\INFO\ANUL III\PAWD\repos_exam\atm-use-case\obj\Debug\atm-use-case.exe.config
